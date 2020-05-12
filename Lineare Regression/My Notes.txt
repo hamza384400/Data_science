@@ -1,0 +1,2 @@
+Residual error = Diffrence between actual and predicted value
+RMSLE ( Root Mean Squared Logarithmic Error ) we add 1 always because log 0 = undefined and we find log
