@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1tnbLgKHGhnTErHMHyEIeN_IsEAw0QgQT?usp=sha
 
 3 Open cmd on the root of your directory from adress bar:
 
-![Capture](https://user-images.githubusercontent.com/65205265/84284290-92733f00-ab6e-11ea-808d-b3cea23baae9.PNG
+![Capture](https://user-images.githubusercontent.com/65205265/84284290-92733f00-ab6e-11ea-808d-b3cea23baae9.PNG)
 
 4 Packages Requirments:
 
